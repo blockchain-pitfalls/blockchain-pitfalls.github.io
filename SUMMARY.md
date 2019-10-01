@@ -1,4 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-
+* Italian version
+  * [Introduzione](LEGGIMI.md)
+* English version
+  * [Introduction](README.md)
